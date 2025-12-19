@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "happy ever after",
+  "base_artist": "eill",
+  "createdAt": "2025-12-19T10:44:39.406311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Ever After",
+      "artist": "Gin Wigmore",
+      "has_synced": true,
+      "path": "select/01_Happy_Ever_After_Gin_Wigmore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Ever After (Zero Hour)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/02_Happy_Ever_After_(Zero_Hour)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Happy Ever After",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/03_No_Happy_Ever_After_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Ever After",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/04_Happy_Ever_After_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Happy Ever After",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/05_No_Happy_Ever_After_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happy Ever After Endings",
+      "artist": "Allstars",
+      "has_synced": true,
+      "path": "select/06_Happy_Ever_After_Endings_Allstars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Ever After (Now and Then)",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/07_Happy_Ever_After_(Now_and_Then)_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Happy Ever After",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/08_No_Happy_Ever_After_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Ever After",
+      "artist": "Lera Lynn",
+      "has_synced": true,
+      "path": "select/09_Happy_Ever_After_Lera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Ever After",
+      "artist": "Letters to Cleo",
+      "has_synced": true,
+      "path": "select/10_Happy_Ever_After_Letters_to_Cleo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HAPPY EVER AFTER",
+      "artist": "SoloCelo",
+      "has_synced": true,
+      "path": "select/11_HAPPY_EVER_AFTER_SoloCelo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Happy Ever After [Explicit]",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/12_No_Happy_Ever_After_[Explicit]_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Ever After",
+      "artist": "Julia Fordham",
+      "has_synced": false,
+      "path": "select/13_Happy_Ever_After_Julia_Fordham.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "happy ever after",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_happy_ever_after_eill.txt"
+    }
+  ]
+}

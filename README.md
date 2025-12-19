@@ -1,0 +1,55 @@
+# eill – happy ever after
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Baby 恋が覚めた瞬間
+君は私のものじゃないし
+これから先も違うし
+でもほんの少しの余白を添えて
+少し五歩先を歩く
+君の背中は大きくて
+手を伸ばしても足りないくらい
+ずるいよ
+「ごめん」頭撫でて
+最後に強く抱きしめるなんて
+苦い 苦い 苦い
+さよならと夜更けのコーヒー
+私はひとり部屋の隅で
+こんなに泣いてるって言うのに
+君は誰かの側にいて
+なんかずるいよ。
+一分一秒とそれ以外
+どれだけ頑張っても叶わない
+Baby 恋を諦めた瞬間
+どれだけ心が通っていたとして
+運命や現実に逆らっても
+Baby ここでお別れさ
+忘れゆく声
+消えてく温度
+全部はじめに巻き戻せれば
+手を握って眠れるのかな
+ずるいよ
+「ごめん」頭撫でて
+最後に強く抱きしめるなんて
+甘い 甘い 甘い
+さよならと夜更けのコーヒー
+私はひとり帰り道で
+褪せてく君を抱き寄せて
+私だけが好きだったんだ
+なんてずるいよ。
+tastes bitter but smells so rosey just like
+honey
+like a crush. my heart is broken but keep
+dreaming
+happily ever after
+(still Feeling numb after waking up from u)
+write the final chapter
+(happily ever after? I don't wanna say that)
+baby, we can't be together
+ずるいよ
+もう 二人だけが
+分かっていればいいから
+おあいこだねって
+わたしを置いていってよ。
+```
